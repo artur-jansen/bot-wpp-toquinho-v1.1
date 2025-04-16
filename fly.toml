@@ -1,0 +1,7 @@
+app = "bot-wpp-toquinho-v1-1"
+
+[build]
+  builtin = "node"
+
+[env]
+  # (opcional) variáveis de ambiente extra
