@@ -1,12 +1,7 @@
-# Node modules
-node_modules/
+auth/
 
-# Log files
-*.log
+*.json
 
-# Environment files
 .env
 
-# Build output
-/dist
-/build
+node_modules/

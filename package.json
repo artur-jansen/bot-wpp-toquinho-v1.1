@@ -3,6 +3,7 @@
     "@google/generative-ai": "^0.24.0",
     "@whiskeysockets/baileys": "^6.7.16",
     "axios": "^1.8.4",
-    "dotenv": "^16.5.0"
+    "dotenv": "^16.5.0",
+    "qrcode-terminal": "^0.12.0"
   }
 }
