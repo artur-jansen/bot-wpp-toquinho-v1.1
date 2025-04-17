@@ -114,7 +114,7 @@ Horário: ${timestamp}
 
     if (ehSaudacao) {
       const menuIntro = `
-👋 Olá! Bem-vindo ao Toquinho Personal!
+👋 Olá! Bem-vindo! Sou o PersonalBot!
 Escolha uma das opções digitando o número ou escrevendo o nome:
 1️⃣ Planilha Masculina
 2️⃣ Planilha Feminina
